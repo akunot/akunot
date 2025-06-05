@@ -27,7 +27,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akunot&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunot&layout=compact&theme=radical" width="47%" />
 </p>
 
@@ -47,16 +46,6 @@
 > *"Programa mi corazón, para que compile nuevas emociones, antes de que rompas mi ciclo."*
 
 ---
-
-## 🧰 Tecnologías y herramientas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,100:FF6B6B&height=120&section=footer" />
