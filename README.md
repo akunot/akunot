@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🎓 Estudiante de Ingeniería en Sistemas · 💻 Desarrollador Backend · 🐳 Apasionado por el desarrollo web  
+  🎓 Estudiante de Administracion de Sistemas Informaticos · 💻 Desarrollador Backend · 🐳 Apasionado por el desarrollo web  
   <br>
   📍 Desde La comodidad de mi PC · 🛠️ Explorando mis capacidades
 </p>
