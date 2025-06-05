@@ -36,7 +36,7 @@
 
 - 📧 Email: [Tu correo]
 - 🐦 [Twitter](https://twitter.com/akunot)
-- ▶️ [YouTube](https://youtube.com/c/akunot1)
+- ▶️ [YouTube](https://youtube.com/@akunot1)
 
 
 ---
