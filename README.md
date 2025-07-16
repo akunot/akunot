@@ -38,13 +38,6 @@
 - 🐦 [Twitter](https://twitter.com/akunot)
 - ▶️ [YouTube](https://youtube.com/@akunot1)
 
-
----
-
-## 📝 Frase personal
-
-> *"Programa mi corazón, para que compile nuevas emociones, antes de que rompas mi ciclo."*
-
 ---
 
 <p align="center">
