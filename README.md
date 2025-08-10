@@ -13,7 +13,7 @@
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
@@ -34,7 +34,7 @@
 
 ## 🌐 Encuéntrame
 
-- 📧 Email: [Tu correo]
+- 📧 Email: castroboteros66@gmail.com
 - 🐦 [Twitter](https://twitter.com/akunot)
 - ▶️ [YouTube](https://youtube.com/@akunot1)
 
