@@ -20,7 +20,7 @@
 ```javascript
 const akunot = {
     estudiante: "Administración de Sistemas Informáticos",
-    ubicacion: "Colombia 💻",
+    ubicacion: "Colombia - Manizales",
     enfoque: "Desarrollo Backend & Arquitectura de Sistemas",
     mentalidad: "Siempre explorando mis capacidades",
     hobbies: ["Coding", "Docker", "Web Development", "Aprender cosas nuevas"]
