@@ -20,6 +20,7 @@
 ```javascript
 const akunot = {
     estudiante: "Administración de Sistemas Informáticos",
+    idiomas: "Español - Nativo & Ingles - B1",
     ubicacion: "Colombia - Manizales",
     enfoque: "Desarrollo Backend & Arquitectura de Sistemas",
     mentalidad: "Siempre explorando mis capacidades",
