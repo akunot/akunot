@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy **akunot**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Desarrollador+Backend;Estudiante+de+Sistemas+Informaticos;Apasionado+por+el+Desarrollo+Web;Explorando+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Desarrollador+Backend;Estudiante+de+Sistemas;Apasionado+por+el+Desarrollo;Explorando+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 
 </div>
 
