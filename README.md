@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy **akunot**
+# 👋 ¡Hola! Soy **Sergio** a.k.a "akunot"
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Desarrollador+Backend;Estudiante+de+Sistemas;Apasionado+por+el+Desarrollo;Explorando+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 
@@ -20,7 +20,7 @@
 ```javascript
 const akunot = {
     estudiante: "Administración de Sistemas Informáticos",
-    ubicacion: "Desde la comodidad de mi PC 💻",
+    ubicacion: "Colombia 🇨🇴",
     enfoque: "Desarrollo Backend & Arquitectura de Sistemas",
     mentalidad: "Siempre explorando mis capacidades",
     hobbies: ["Coding", "Docker", "Web Development", "Aprender cosas nuevas"]
