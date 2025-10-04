@@ -70,13 +70,6 @@ const akunot = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akunot&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunot&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-  
 [![GitHub Streak](https://streak-stats.demolab.com?user=akunot&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFD93D)](https://git.io/streak-stats)
 
 </div>
