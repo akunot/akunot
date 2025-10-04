@@ -111,10 +111,6 @@ const akunot = {
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default)
 
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/akunot/akunot/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
