@@ -4,7 +4,7 @@
   <p><strong>Construyendo sistemas escalables desde Manizales 🇨🇴</strong></p>
   
   [![Email](https://img.shields.io/badge/-Email-FF6B6B?style=flat&logo=gmail&logoColor=white)](mailto:castroboteros66@gmail.com)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/akunot)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/aku_not)
   [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@akunot1)
 </div>
 
