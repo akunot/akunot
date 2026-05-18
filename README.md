@@ -74,7 +74,7 @@ Lo que me importa construir:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=akunot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&bg_color=0d1117)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akunot&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff)
+![Streak](https://streak-stats.demolab.com/?user=akunot&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akunot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9)
 
