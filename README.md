@@ -1,89 +1,103 @@
-# Sergio Castro | Backend Developer
 
-<div align="center">
-  <p><strong>Construyo backend con criterio, orden y hambre de escalabilidad.</strong></p>
-  <p>Desde Manizales 🇨🇴, creando sistemas que no solo funcionan: perduran.</p>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  SERGIO CASTRO  ·  BACKEND DEVELOPER  ·  MANIZALES, CO  🇨🇴      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-  <a href="mailto:castroboteros66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/aku_not">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@akunot1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</div>
+> *"El buen código no se oye. Se siente cuando falta."*
 
 ---
 
-## ⚙️ Mi forma de pensar
+## `$ whoami`
 
-No escribo código solo para que compile.  
+```yaml
+nombre:     Sergio Castro
+alias:      akunot
+rol:        Backend Developer
+estudio:    Administración de Sistemas Informáticos
+ubicación:  Manizales, Colombia
+frecuencia: sistemas que escalan · código que perdura
+```
+
+No escribo código para que compile.  
 Lo escribo para que otro pueda entenderlo, extenderlo y confiar en él.
 
-Me interesa construir software con tres obsesiones sanas:
+Tres obsesiones que no negocio:
 
-- **claridad**, para que todo tenga sentido
-- **estructura**, para que el sistema aguante el crecimiento
-- **elegancia**, para que la solución no solo sea útil, sino limpia
-
----
-
-## 👨‍💻 Quién soy
-
-Soy **Backend Developer** y estudiante de **Administración de Sistemas Informáticos**.  
-Me muevo entre arquitectura, lógica y diseño de soluciones, buscando que cada proyecto tenga una base sólida desde el inicio.
-
-Disfruto transformar problemas complejos en sistemas simples de mantener, bien documentados y listos para escalar.
+```
+  CLARIDAD   →  todo tiene que tener sentido
+  ESTRUCTURA →  el sistema aguanta el crecimiento
+  ELEGANCIA  →  la solución no solo es útil, es limpia
+```
 
 ---
 
-## 🧰 Stack
+## `$ cat stack.json`
 
-**Backend**  
-`PHP` · `Python` · `Java` · `Django`
-
-**Bases de datos**  
-`PostgreSQL` · `MySQL` · `SQLite`
-
-**DevOps y entorno**  
-`Docker` · `Git` · `Linux`
-
----
-
-## 🔭 En lo que estoy ahora
-
-- afinando proyectos de **backend escalable**
-- profundizando en **microservicios**
-- fortaleciendo **arquitectura limpia**
-- mejorando mi criterio para escribir código mantenible
-- compartiendo aprendizaje técnico con intención
+```json
+{
+  "backend":   ["PHP", "Python", "Java", "Django"],
+  "databases": ["PostgreSQL", "MySQL", "SQLite"],
+  "devops":    ["Docker", "Git", "Linux"],
+  "en_curso":  ["microservices", "clean architecture", "scalable systems"]
+}
+```
 
 ---
 
-## 🏆 Lo que me importa construir
+## `$ git log --oneline --what-matters`
 
-- sistemas bien pensados, no improvisados
-- documentación que de verdad ayude
-- código que resista el tiempo
-- soluciones que se sientan profesionales desde la base
+```
+[NOW]  afinando arquitectura limpia y microservicios
+[NOW]  construyendo backend escalable con criterio
+[NOW]  documentación que de verdad ayuda
+[NOW]  código que resiste el tiempo
+```
 
 ---
 
-## 📊 GitHub Stats
+## `$ ping philosophy.dev`
+
+Lo que me importa construir:
+
+- sistemas **bien pensados**, no improvisados
+- documentación que **de verdad** ayude
+- código que **resista el tiempo**
+- soluciones que se sientan **profesionales desde la base**
+
+---
+
+## `$ curl stats.github.com/akunot`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akunot&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akunot&theme=radical&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunot&layout=compact&theme=radical&hide_border=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=akunot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&bg_color=0d1117)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akunot&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akunot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9)
+
 </div>
 
 ---
 
+## `$ connect --channel`
+
 <div align="center">
-  <p><strong>Menos ruido. Más estructura. Mejor software.</strong></p>
+
+[![Email](https://img.shields.io/badge/castroboteros66%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff)](mailto:castroboteros66@gmail.com)
+&nbsp;
+[![X](https://img.shields.io/badge/@aku__not-0d1117?style=for-the-badge&logo=x&logoColor=00f5ff)](https://x.com/aku_not)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/@akunot1-0d1117?style=for-the-badge&logo=youtube&logoColor=00f5ff)](https://youtube.com/@akunot1)
+
 </div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║          MENOS RUIDO.  MÁS ESTRUCTURA.  MEJOR SOFTWARE.         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
