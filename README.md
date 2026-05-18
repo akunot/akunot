@@ -1,63 +1,93 @@
 # Sergio Castro | Backend Developer
 
 <div align="center">
-  <p><strong>Construyendo sistemas escalables desde Manizales 🇨🇴</strong></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Backend+Developer;Arquitectura+de+Sistemas;Código+Limpio+%26+Escalable;Siempre+aprendiendo" alt="Typing SVG" />
   
-  [![Email](https://img.shields.io/badge/-Email-FF6B6B?style=flat&logo=gmail&logoColor=white)](mailto:castroboteros66@gmail.com)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/aku_not)
-  [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@akunot1)
+  <p>
+    <strong>Construyendo sistemas escalables desde Manizales 🇨🇴</strong>
+  </p>
+
+  <a href="mailto:castroboteros66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/aku_not">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@akunot1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 🎯 Quién Soy
+## 👨‍💻 Sobre mí
 
-Backend developer enfocado en **arquitectura de sistemas**, **código limpio** y **soluciones escalables**. Estudiante de Administración de Sistemas Informáticos que disfruta transformando problemas complejos en código elegante.
+Soy **Backend Developer** enfocado en construir software con buena base técnica: arquitectura sólida, código mantenible y soluciones que escalen con orden.
 
-**Principios que sigo:**
-- 💡 Código limpio y mantenible
-- 🏗️ Arquitectura sólida desde el inicio
-- 📚 Documentación clara
-- 🔄 Mejora continua
+Estudio **Administración de Sistemas Informáticos** y me apasiona convertir problemas complejos en sistemas claros, eficientes y bien documentados.
 
----
-
-## 💻 Stack
-
-```
-Backend:        PHP | Python | Java | Django
-Bases de Datos: PostgreSQL | MySQL | SQLite
-DevOps:         Docker | Git | Linux
-```
+### Lo que más valoro en un proyecto
+- Código limpio y fácil de mantener
+- Arquitectura pensada para crecer
+- Documentación útil y directa
+- Aprendizaje constante y mejora continua
 
 ---
 
-## 🎯 Actualmente
+## 🛠️ Stack
 
-- 🔭 Trabajando en proyectos de **backend escalable**
-- 📚 Profundizando en **Arquitectura de Microservicios**
-- 🤝 Buscando colaboraciones en **Open Source**
-- ✍️ Compartiendo conocimiento a través de **contenido técnico**
+### Backend
+`PHP` · `Python` · `Java` · `Django`
+
+### Bases de datos
+`PostgreSQL` · `MySQL` · `SQLite`
+
+### DevOps y herramientas
+`Docker` · `Git` · `Linux`
+
+---
+
+## 🚀 En qué estoy trabajando
+
+- Desarrollo de proyectos con enfoque en **backend escalable**
+- Profundización en **arquitectura de microservicios**
+- Mejora de buenas prácticas en **diseño y patrones**
+- Construcción de contenido técnico y aprendizaje compartido
 
 ---
 
-## 🏆 Logros 2026
+## 🏆 Logros y enfoque actual
 
-- ✨ Contribuciones a proyectos Open Source
-- 🚀 Proyectos con arquitectura profesional
-- 📖 Documentación y guías técnicas
-- 💪 Fortalecimiento en patrones de diseño
+- Participación en proyectos con estructura más profesional
+- Fortalecimiento en arquitectura y patrones de diseño
+- Documentación técnica más clara y útil
+- Contribuciones orientadas a calidad y escalabilidad
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=akunot&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFD93D)
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akunot&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akunot&theme=radical&hide_border=true" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunot&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
+## 📌 Actualmente explorando
+
+- Microservicios
+- Diseño de APIs
+- Arquitectura limpia
+- Automatización y despliegue
+- Mejores prácticas en backend
+
+---
+
 <div align="center">
-  <p><strong>Siempre aprendiendo, siempre mejorando</strong></p>
+  <p><strong>Construyo software con intención, orden y visión de escalabilidad.</strong></p>
 </div>
