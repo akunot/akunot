@@ -1,17 +1,14 @@
 # Sergio Castro | Backend Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Backend+Developer;Arquitectura+de+Sistemas;Código+Limpio+%26+Escalable;Siempre+aprendiendo" alt="Typing SVG" />
-  
-  <p>
-    <strong>Construyendo sistemas escalables desde Manizales 🇨🇴</strong>
-  </p>
+  <p><strong>Construyo backend con criterio, orden y hambre de escalabilidad.</strong></p>
+  <p>Desde Manizales 🇨🇴, creando sistemas que no solo funcionan: perduran.</p>
 
   <a href="mailto:castroboteros66@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/aku_not">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://youtube.com/@akunot1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -20,48 +17,57 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## ⚙️ Mi forma de pensar
 
-Soy **Backend Developer** enfocado en construir software con buena base técnica: arquitectura sólida, código mantenible y soluciones que escalen con orden.
+No escribo código solo para que compile.  
+Lo escribo para que otro pueda entenderlo, extenderlo y confiar en él.
 
-Estudio **Administración de Sistemas Informáticos** y me apasiona convertir problemas complejos en sistemas claros, eficientes y bien documentados.
+Me interesa construir software con tres obsesiones sanas:
 
-### Lo que más valoro en un proyecto
-- Código limpio y fácil de mantener
-- Arquitectura pensada para crecer
-- Documentación útil y directa
-- Aprendizaje constante y mejora continua
+- **claridad**, para que todo tenga sentido
+- **estructura**, para que el sistema aguante el crecimiento
+- **elegancia**, para que la solución no solo sea útil, sino limpia
 
 ---
 
-## 🛠️ Stack
+## 👨‍💻 Quién soy
 
-### Backend
+Soy **Backend Developer** y estudiante de **Administración de Sistemas Informáticos**.  
+Me muevo entre arquitectura, lógica y diseño de soluciones, buscando que cada proyecto tenga una base sólida desde el inicio.
+
+Disfruto transformar problemas complejos en sistemas simples de mantener, bien documentados y listos para escalar.
+
+---
+
+## 🧰 Stack
+
+**Backend**  
 `PHP` · `Python` · `Java` · `Django`
 
-### Bases de datos
+**Bases de datos**  
 `PostgreSQL` · `MySQL` · `SQLite`
 
-### DevOps y herramientas
+**DevOps y entorno**  
 `Docker` · `Git` · `Linux`
 
 ---
 
-## 🚀 En qué estoy trabajando
+## 🔭 En lo que estoy ahora
 
-- Desarrollo de proyectos con enfoque en **backend escalable**
-- Profundización en **arquitectura de microservicios**
-- Mejora de buenas prácticas en **diseño y patrones**
-- Construcción de contenido técnico y aprendizaje compartido
+- afinando proyectos de **backend escalable**
+- profundizando en **microservicios**
+- fortaleciendo **arquitectura limpia**
+- mejorando mi criterio para escribir código mantenible
+- compartiendo aprendizaje técnico con intención
 
 ---
 
-## 🏆 Logros y enfoque actual
+## 🏆 Lo que me importa construir
 
-- Participación en proyectos con estructura más profesional
-- Fortalecimiento en arquitectura y patrones de diseño
-- Documentación técnica más clara y útil
-- Contribuciones orientadas a calidad y escalabilidad
+- sistemas bien pensados, no improvisados
+- documentación que de verdad ayude
+- código que resista el tiempo
+- soluciones que se sientan profesionales desde la base
 
 ---
 
@@ -78,16 +84,6 @@ Estudio **Administración de Sistemas Informáticos** y me apasiona convertir pr
 
 ---
 
-## 📌 Actualmente explorando
-
-- Microservicios
-- Diseño de APIs
-- Arquitectura limpia
-- Automatización y despliegue
-- Mejores prácticas en backend
-
----
-
 <div align="center">
-  <p><strong>Construyo software con intención, orden y visión de escalabilidad.</strong></p>
+  <p><strong>Menos ruido. Más estructura. Mejor software.</strong></p>
 </div>
